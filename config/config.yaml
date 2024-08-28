@@ -1,0 +1,5 @@
+# 示例配置文件 config.yaml
+
+caps_lock_check_interval: 500  # 检查 Caps Lock 状态的时间间隔，单位为毫秒
+window_title: "Caps Lock 状态检测"  # 应用程序窗口的标题
+label_font: "Arial 16"  # 标签字体设置
